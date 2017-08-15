@@ -1,19 +1,22 @@
-## Introduction
+A broadcast is a way of sending a signal from a sprite which can be heard by all sprites. Think of it like an announcement made over a loudspeaker.
 
-Add project description here. What will learners be making?
+### Send a broadcast
+You can send a broadcast by creating a broadcast block and giving it a name:
 
-### What you will make
++ Find the broadcast block in the 'Events' tab
 
-Add something here to showcase here, for example:
++ Select "New message" in the drop down, then type your message
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Create a broadcast](images/create-a-broadcast.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+The message text can be anything you like but it is more useful to give the broadcast a sensible description. What happens when the message is received depends on the code you write.
 
-### What you will learn
+### Receive a broadcast
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+A sprite can react to a broadcast by using this block:
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+![Receive a broadcast](images/receive-a-broadcast.png)
+
+You can add blocks underneath this block to tell the sprite what to do when it receives the broadcast signal.
+
+![Receive example](images/receive-example.png)
