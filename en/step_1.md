@@ -5,7 +5,7 @@ You can send a broadcast by creating a broadcast block and giving it a name.
 
 + Find the broadcast block in the Events tab.
 
-+ Select **New Message** in the drop-down menu, then type your message.
++ Select **new message** in the drop-down menu, then type your message.
 
 ![Create a broadcast](images/create-a-broadcast.png)
 
