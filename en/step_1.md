@@ -1,9 +1,9 @@
 A broadcast is a way of sending a signal from a sprite which can be heard by all sprites. Think of it like an announcement made over a loudspeaker.
 
 ### Send a broadcast
-You can send a broadcast by creating a broadcast block and giving it a name:
+You can send a broadcast by creating a broadcast block and giving it a name.
 
-+ Find the broadcast block in the **Events** tab
++ Find the broadcast block in the Events tab.
 
 + Select **New Message** in the drop-down menu, then type your message.
 
