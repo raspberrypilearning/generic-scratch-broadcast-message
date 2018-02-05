@@ -1,23 +1,23 @@
-A broadcast is a way of sending a signal from a sprite which can be heard by all sprites. Think of it like an announcement made over a loudspeaker.
+Ein Broadcast ist eine Möglichkeit, ein Signal von einem Sprite zu senden, das von allen Sprites gehört werden kann. Stellen Sie es sich vor wie eine Ansage über einen Lautsprecher.
 
-### Send a broadcast
+### Sende eine Sendung
 
-You can send a broadcast by creating a broadcast block and giving it a name.
+Sie können einen Broadcast senden, indem Sie einen Broadcast-Block erstellen und ihm einen Namen geben.
 
-+ Find the broadcast block in the Events tab.
++ Suchen Sie den Broadcast-Block auf der Registerkarte Ereignisse.
 
-+ Select **new message** in the drop-down menu, then type your message.
++ Wählen Sie | 123_8_0_321 | neue Nachricht | 123_9_1_321 | Im Dropdown-Menü geben Sie Ihre Nachricht ein.
 
-![Create a broadcast](images/create-a-broadcast.png)
+![Erstellen Sie eine Sendung](images/create-a-broadcast.png)
 
-The message text can be anything you like, but it is useful to give the broadcast a sensible description. What happens when the message is received depends on the code you write.
+Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was passiert, wenn die Nachricht empfangen wird, hängt von dem Code ab, den Sie schreiben.
 
-### Receive a broadcast
+### Empfangen Sie eine Sendung
 
-A sprite can react to a broadcast by using this block:
+Ein Sprite kann mit diesem Block auf eine Übertragung reagieren:
 
-![Receive a broadcast](images/receive-a-broadcast.png)
+![Empfangen Sie eine Sendung](images/receive-a-broadcast.png)
 
-You can add blocks below this block to tell the sprite what to do when it receives the broadcast signal.
+Sie können Blöcke unterhalb dieses Blocks hinzufügen, um dem Sprite mitzuteilen, was zu tun ist, wenn es das Broadcast-Signal empfängt.
 
-![Receive example](images/receive-example.png)
+![Beispiel erhalten](images/receive-example.png)
