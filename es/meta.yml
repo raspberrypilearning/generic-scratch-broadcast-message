@@ -1,16 +1,16 @@
 ---
-title: Broadcast a message in Scratch
-hero_image: images/banner.png
-description: Learn how to broadcast a message which can be acted upon by different sprites
-theme: red
+title: Transmite un mensaje en Scratch
+hero_image: images / banner.png
+description: Aprenda a transmitir un mensaje que puede ser actuado por diferentes sprites
+theme: rojo
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
 interests: ""
-technologies: "scratch"
+technologies: "rasguño"
 site_areas: ""
 steps:
   - 
-    title: Introduction
+    title: Introducción
