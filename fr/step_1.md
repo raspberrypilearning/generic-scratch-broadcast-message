@@ -1,23 +1,23 @@
-A broadcast is a way of sending a signal from a sprite which can be heard by all sprites. Think of it like an announcement made over a loudspeaker.
+Une diffusion est un moyen d'envoyer un signal d'un sprite qui peut être entendu par tous les sprites. Pensez-y comme une annonce faite sur un haut-parleur.
 
-### Send a broadcast
+### Envoyer une diffusion
 
-You can send a broadcast by creating a broadcast block and giving it a name.
+Vous pouvez envoyer une diffusion en créant un bloc de diffusion et en lui attribuant un nom.
 
-+ Find the broadcast block in the Events tab.
++ Trouver le bloc de diffusion dans l'onglet Événements.
 
-+ Select **new message** in the drop-down menu, then type your message.
++ Sélectionnez | 123_8_0_321 | nouveau message | 123_9_1_321 | Dans le menu déroulant, tapez votre message.
 
-![Create a broadcast](images/create-a-broadcast.png)
+![Créer une diffusion](images/create-a-broadcast.png)
 
-The message text can be anything you like, but it is useful to give the broadcast a sensible description. What happens when the message is received depends on the code you write.
+Le texte du message peut être quelque chose que vous aimez, mais il est utile de donner une description raisonnable à l'émission. Ce qui se passe lorsque le message est reçu dépend du code que vous écrivez.
 
-### Receive a broadcast
+### Recevoir une diffusion
 
-A sprite can react to a broadcast by using this block:
+Un sprite peut réagir à une diffusion en utilisant ce bloc:
 
-![Receive a broadcast](images/receive-a-broadcast.png)
+![Recevoir une diffusion](images/receive-a-broadcast.png)
 
-You can add blocks below this block to tell the sprite what to do when it receives the broadcast signal.
+Vous pouvez ajouter des blocs en dessous de ce bloc pour indiquer au sprite ce qu'il doit faire lorsqu'il reçoit le signal de diffusion.
 
-![Receive example](images/receive-example.png)
+![Recevoir un exemple](images/receive-example.png)
