@@ -1,0 +1,14 @@
+title: Scratch में संदेश प्रसारित करें
+hero_image: images/banner.png
+description: Scratch में संदेश प्रसारित करना सीखें, जिस पर भिन्न-भिन्न स्प्राइट्स प्रतिक्रिया कर सकें
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 # possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: “"
+technologies: “scratch"
+site_areas:
+steps:
+  - title: भूमिका
