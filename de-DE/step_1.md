@@ -10,14 +10,14 @@ Du kannst eine Nachricht senden, indem du einen 'Sende Nachricht an alle'-Block 
 
 ![Erstelle eine Sendung](images/create-a-broadcast.png)
 
-Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was passiert, wenn die Nachricht empfangen wird, hängt von dem Code ab, den Sie schreiben.
+Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was passiert, wenn die Nachricht empfangen wird, hängt von dem Code ab, den du schreibst.
 
-### Empfangen Sie eine Sendung
+### Empfangen einer Sendung
 
-Ein Sprite kann mit diesem Block auf eine Übertragung reagieren:
+Eine Figur kann mit diesem Block auf eine Sendung reagieren:
 
 ![Empfange eine Sendung](images/receive-a-broadcast.png)
 
-Sie können Blöcke unterhalb dieses Blocks hinzufügen, um dem Sprite mitzuteilen, was zu tun ist, wenn es das Broadcast-Signal empfängt.
+Du kannst Blöcke unterhalb dieses Blocks hinzufügen, um der Figur mitzuteilen, was zu tun ist, wenn sie die Sendung empfängt.
 
 ![Beispiel erhalten](images/receive-example.png)
