@@ -20,4 +20,4 @@ Eine Figur kann mit diesem Block auf eine Sendung reagieren:
 
 Du kannst Blöcke unterhalb dieses Blocks hinzufügen, um der Figur mitzuteilen, was zu tun ist, wenn sie die Sendung empfängt.
 
-![Beispiel erhalten](images/receive-example.png)
+![Beispiel für Empfang](images/receive-example.png)
