@@ -1,4 +1,4 @@
-Eine Sendung an alle ist eine Möglichkeit, ein Signal von einer Figur zu senden, das von allen Figuren gehört werden kann. Stelle es dir vor wie eine Ansage über einen Lautsprecher.
+Eine Sendung an alle ist eine Möglichkeit um ein Signal von einer Figur aus zu senden, das von allen Figuren gehört werden kann. Stelle es dir vor wie eine Ansage über einen Lautsprecher.
 
 ### Eine Nachricht an alle senden
 
