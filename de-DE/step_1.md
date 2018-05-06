@@ -6,11 +6,11 @@ Du kannst eine Nachricht senden, indem du einen 'Sende Nachricht an alle'-Block 
 
 + Suche den 'Sende Nachricht an alle'-Block auf der Registerkarte Ereignisse.
 
-+ Wähle **Neue Nachricht** im ausklappbaren Menü und gib deine Nachricht ein.
++ Wähle **neue Nachricht** im ausklappbaren Menü und gib deine Nachricht ein.
 
 ![Erstelle eine Sendung](images/create-a-broadcast.png)
 
-Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was passiert, wenn die Nachricht empfangen wird, hängt von dem Code ab, den du schreibst.
+Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was beim Empfang der Nachricht passiert, hängt von dem Code ab, den du schreibst.
 
 ### Empfangen einer Sendung
 
