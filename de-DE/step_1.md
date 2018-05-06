@@ -8,7 +8,7 @@ Sie können einen Broadcast senden, indem Sie einen Broadcast-Block erstellen un
 
 + Wählen Sie | 123_8_0_321 | neue Nachricht | 123_9_1_321 | Im Dropdown-Menü geben Sie Ihre Nachricht ein.
 
-![Erstellen Sie eine Sendung](images/create-a-broadcast.png)
+![Erstelle eine Sendung](images/create-a-broadcast.png)
 
 Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was passiert, wenn die Nachricht empfangen wird, hängt von dem Code ab, den Sie schreiben.
 
@@ -16,7 +16,7 @@ Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine 
 
 Ein Sprite kann mit diesem Block auf eine Übertragung reagieren:
 
-![Empfangen Sie eine Sendung](images/receive-a-broadcast.png)
+![Empfange eine Sendung](images/receive-a-broadcast.png)
 
 Sie können Blöcke unterhalb dieses Blocks hinzufügen, um dem Sprite mitzuteilen, was zu tun ist, wenn es das Broadcast-Signal empfängt.
 
