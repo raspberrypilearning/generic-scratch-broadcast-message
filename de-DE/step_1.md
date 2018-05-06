@@ -1,10 +1,10 @@
-Ein Broadcast ist eine Möglichkeit, ein Signal von einem Sprite zu senden, das von allen Sprites gehört werden kann. Stellen Sie es sich vor wie eine Ansage über einen Lautsprecher.
+Eine Sendung an alle ist eine Möglichkeit, ein Signal von einer Figur zu senden, das von allen Figuren gehört werden kann. Stelle es dir vor wie eine Ansage über einen Lautsprecher.
 
-### Sende eine Sendung
+### Eine Nachricht an alle senden
 
-Sie können einen Broadcast senden, indem Sie einen Broadcast-Block erstellen und ihm einen Namen geben.
+Du kannst eine Nachricht senden, indem du einen 'Sende Nachricht an alle'-Block erstellst und ihm einen Namen gibst.
 
-+ Suchen Sie den Broadcast-Block auf der Registerkarte Ereignisse.
++ Suche den 'Sende Nachricht an alle'-Block auf der Registerkarte Ereignisse.
 
 + Wählen Sie | 123_8_0_321 | neue Nachricht | 123_9_1_321 | Im Dropdown-Menü geben Sie Ihre Nachricht ein.
 
