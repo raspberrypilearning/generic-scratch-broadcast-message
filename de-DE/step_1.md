@@ -6,7 +6,7 @@ Du kannst eine Nachricht senden, indem du einen 'Sende Nachricht an alle'-Block 
 
 + Suche den 'Sende Nachricht an alle'-Block auf der Registerkarte Ereignisse.
 
-+ Wählen Sie | 123_8_0_321 | neue Nachricht | 123_9_1_321 | Im Dropdown-Menü geben Sie Ihre Nachricht ein.
++ Wähle **Neue Nachricht** im ausklappbaren Menü und gib deine Nachricht ein.
 
 ![Erstelle eine Sendung](images/create-a-broadcast.png)
 
