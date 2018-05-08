@@ -1,12 +1,12 @@
-Una transmisión es una forma de enviar una señal desde un sprite que puede ser escuchada por todos los sprites. Piense en ello como un anuncio hecho por un altavoz.
+Una transmisión es una forma de enviar una señal desde un objeto que puede ser escuchada por todos los objetos. Piensa en ello como un anuncio hecho por un altavoz.
 
 ### Enviar una transmisión
 
-Puede enviar una transmisión creando un bloque de transmisión y dándole un nombre.
+Puedes enviar una transmisión creando un bloque de envío y dándole un nombre.
 
-+ Encuentra el bloque de transmisión en la pestaña Eventos.
++ Encuentra el bloque de envío en la pestaña Eventos.
 
-+ Seleccione | 123_8_0_321 | nuevo mensaje | 123_9_1_321 | en el menú desplegable, escribe tu mensaje.
++ Selecciona **nuevo mensaje...** en el menú desplegable y escribe tu mensaje.
 
 ![Crear una transmisión](images/create-a-broadcast.png)
 
