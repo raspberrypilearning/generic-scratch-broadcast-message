@@ -10,14 +10,14 @@ Puedes enviar una transmisión creando un bloque de envío y dándole un nombre.
 
 ![Crear una transmisión](images/create-a-broadcast.png)
 
-El texto del mensaje puede ser lo que quieras, pero es útil darle a la transmisión una descripción sensata. Lo que sucede cuando se recibe el mensaje depende del código que se escribe.
+El texto del mensaje puede ser lo que quieras, pero es útil darle a la transmisión un texto descriptivo. Lo que sucede cuando se recibe el mensaje depende del código que hayas escrito.
 
 ### Recibe una transmisión
 
-Un sprite puede reaccionar a una transmisión usando este bloque:
+Un objeto puede reaccionar a un envío usando este bloque:
 
-![Recibe una transmisión](images/receive-a-broadcast.png)
+![Recibir una transmisión](images/receive-a-broadcast.png)
 
-Puedes agregar bloques debajo de este bloque para decirle al sprite qué hacer cuando recibe la señal de transmisión.
+Puedes agregar bloques debajo de este bloque para decirle al objeto qué hacer cuando recibe la señal transmitida.
 
-![Recibir ejemplo](images/receive-example.png)
+![Ejemplo de recepción](images/receive-example.png)
