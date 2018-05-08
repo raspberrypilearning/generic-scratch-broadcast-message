@@ -1,16 +1,16 @@
 ---
-title: Transmite un mensaje en Scratch
-hero_image: images / banner.png
-description: Aprenda a transmitir un mensaje que puede ser actuado por diferentes sprites
-theme: rojo
+title: Enviar un mensaje en Scratch
+hero_image: images/banner.png
+description: Aprende a enviar un mensaje al que pueden reaccionar los diferentes objetos
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "rasguño"
-site_areas: ""
+technologies: "scratch"
+site_areas:
 steps:
   - 
     title: Introducción
