@@ -2,14 +2,14 @@
 title: Senden einer Nachricht in Scratch
 hero_image: images/banner.png
 description: So kannst du eine Nachricht senden, auf die verschiedene Figuren reagieren können
-theme: rot
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "kratzen"
+technologies: "scratch"
 site_areas:
 steps:
   - 
