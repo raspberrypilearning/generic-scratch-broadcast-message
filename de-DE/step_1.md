@@ -8,7 +8,7 @@ Du kannst eine Nachricht senden, indem du einen 'Sende Nachricht an alle'-Block 
 
 + Wähle **neue Nachricht** im ausklappbaren Menü und gib deine Nachricht ein.
 
-![Erstelle eine Sendung](images/create-a-broadcast.png)
+![Create a broadcast](images/create-a-broadcast.png)
 
 Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine sinnvolle Beschreibung zu geben. Was beim Empfang der Nachricht passiert, hängt von dem Code ab, den du schreibst.
 
@@ -16,8 +16,8 @@ Der Nachrichtentext kann beliebig sein, aber es ist nützlich, der Sendung eine 
 
 Eine Figur kann mit diesem Block auf eine Sendung reagieren:
 
-![Empfange eine Sendung](images/receive-a-broadcast.png)
+![Receive a broadcast](images/receive-a-broadcast.png)
 
 Du kannst Blöcke unterhalb dieses Blocks hinzufügen, um der Figur mitzuteilen, was zu tun ist, wenn sie die Sendung empfängt.
 
-![Beispiel für Empfang](images/receive-example.png)
+![Receive example](images/receive-example.png)
