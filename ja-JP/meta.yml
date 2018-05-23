@@ -1,16 +1,16 @@
 ---
-title: スクラッチでメッセージをブロードキャストする
-hero_image: images / banner.png
-description: さまざまなスプライトで処理できるメッセージをブロードキャストする方法を学ぶ
-theme: 赤
+title: スクラッチでメッセージを発信する
+hero_image: images/banner.png
+description: さまざまなスプライトが処理できるメッセージを発信する方法を学ぶ
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: クリエイター、デザイン-0、プログラミング-0、phys-comp-0、製造-0、コミュニティ-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "スクラッチ"
-site_areas: ""
+technologies: "scratch"
+site_areas:
 steps:
   - 
-    title: 前書き
+    title: はじめに
