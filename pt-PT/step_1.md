@@ -1,23 +1,23 @@
-Uma transmissão é uma forma de enviar um sinal de um sprite que pode ser ouvido por todos os sprites. Pense nisso como um anúncio feito através de um alto-falante.
+Uma transmissão "broadcast" é uma forma de enviar um sinal a partir de um sprite que pode ser ouvido por todos os sprites. Imagina que é um anúncio feito através de um alto-falante.
 
 ### Enviar uma transmissão
 
-Você pode enviar uma transmissão criando um bloco de transmissão e dando-lhe um nome.
+Podes enviar uma transmissão criando um bloco de transmissão e dando-lhe um nome.
 
-+ Encontre o bloco de transmissão na guia Eventos.
++ Procura o bloco de transmissão no menu Eventos.
 
-+ Selecione **nova mensagem** no menu suspenso e digite sua mensagem.
++ Selecciona **new message** no menu e escreve a tua mensagem.
 
-![Crie uma transmissão](images/create-a-broadcast.png)
+![Criar uma transmissão](images/create-a-broadcast.png)
 
-O texto da mensagem pode ser qualquer coisa que você quiser, mas é útil dar à transmissão uma descrição sensível. O que acontece quando a mensagem é recebida depende do código que você escreve.
+O texto da mensagem pode ser o que tu quiseres, mas é útil dar à transmissão uma descrição precisa. O que acontece quando a mensagem é recebida depende do código que escreves.
 
-### Receba uma transmissão
+### Recebe uma transmissão
 
-Um sprite pode reagir a uma transmissão usando este bloco:
+Uma sprite pode reagir a uma transmissão usando este bloco:
 
-![Receba uma transmissão](images/receive-a-broadcast.png)
+![Recebe uma transmissão](images/receive-a-broadcast.png)
 
-Você pode adicionar blocos abaixo deste bloco para dizer ao sprite o que fazer quando recebe o sinal de transmissão.
+Podes adicionar blocos debaixo deste bloco para dizer à sprite o que fazer quando receber o sinal de transmissão.
 
-![Receba um exemplo](images/receive-example.png)
+![Recebe um exemplo](images/receive-example.png)
