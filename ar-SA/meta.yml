@@ -1,8 +1,9 @@
-title: نشر رسالة في Scratch
+---
+title: بث رسالة في Scratch
 hero_image: images/banner.png
-description: تعلَّم كيف تنشر رسالة يمكن استخدامها بحيث تنفذ كائناتٌ مختلفة أوامرَ وفقًا لها
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+description: تعلَّم كيف تبث رسالة يمكن التصرف بها بواسطة كائنات مختلفة
+theme: red
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
