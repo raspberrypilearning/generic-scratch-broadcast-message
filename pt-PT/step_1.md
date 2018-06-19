@@ -20,4 +20,4 @@ Uma sprite pode reagir a uma transmissão usando este bloco:
 
 Podes adicionar blocos debaixo deste bloco para dizer ao sprite o que fazer quando receber o sinal de transmissão.
 
-![Recebe um exemplo](images/receive-example.png)
+![Receber um exemplo](images/receive-example.png)
