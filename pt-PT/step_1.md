@@ -6,18 +6,18 @@ Podes enviar uma transmissão criando um bloco de transmissão e dando-lhe um no
 
 + Procura o bloco de transmissão no menu Eventos.
 
-+ Selecciona **new message** no menu e escreve a tua mensagem.
++ Seleciona **new message** no menu e escreve a tua mensagem.
 
 ![Criar uma transmissão](images/create-a-broadcast.png)
 
 O texto da mensagem pode ser o que tu quiseres, mas é útil dar à transmissão uma descrição precisa. O que acontece quando a mensagem é recebida depende do código que escreves.
 
-### Recebe uma transmissão
+### Receber uma transmissão
 
 Uma sprite pode reagir a uma transmissão usando este bloco:
 
-![Recebe uma transmissão](images/receive-a-broadcast.png)
+![Receber uma transmissão](images/receive-a-broadcast.png)
 
-Podes adicionar blocos debaixo deste bloco para dizer à sprite o que fazer quando receber o sinal de transmissão.
+Podes adicionar blocos debaixo deste bloco para dizer ao sprite o que fazer quando receber o sinal de transmissão.
 
 ![Recebe um exemplo](images/receive-example.png)
