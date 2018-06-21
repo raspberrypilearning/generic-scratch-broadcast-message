@@ -1,13 +1,13 @@
 ---
-title: Transmita uma mensagem no Scratch
-hero_image: images / banner.png
-description: Saiba como transmitir uma mensagem que pode ser executada por diferentes sprites
-theme: vermelho
+title: Difundir uma mensagem no Scratch
+hero_image: images/banner.png
+description: Aprende como difundir uma mensagem que pode ser executada por diferentes sprites
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: criador, design-0, programação-0, computação-física-0, fabrico-0, comunidade-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
