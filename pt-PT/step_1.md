@@ -1,4 +1,4 @@
-Uma transmissão "broadcast" é uma forma de enviar um sinal a partir de um sprite que pode ser ouvido por todos os sprites. Imagina que é um anúncio feito através de um alto-falante.
+Uma difusão de uma mensagem é uma forma de enviar um sinal a partir de um sprite que pode ser ouvido por todos os sprites. Imagina que é um anúncio feito através de um alto-falante.
 
 ### Enviar uma transmissão
 
