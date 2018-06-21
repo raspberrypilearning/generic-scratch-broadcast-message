@@ -1,16 +1,16 @@
 Uma difusão de uma mensagem é uma forma de enviar um sinal a partir de um sprite que pode ser ouvido por todos os sprites. Imagina que é um anúncio feito através de um alto-falante.
 
-### Enviar uma transmissão
+### Difundir uma mensagem
 
-Podes enviar uma transmissão criando um bloco de transmissão e dando-lhe um nome.
+Podes difundir uma mensagem criando um bloco de difusão de mensagem dando-lhe um nome.
 
-+ Procura o bloco de transmissão no menu Eventos.
++ Procura o bloco de difusão no menu Eventos.
 
 + Seleciona **new message** no menu e escreve a tua mensagem.
 
 ![Criar uma transmissão](images/create-a-broadcast.png)
 
-O texto da mensagem pode ser o que tu quiseres, mas é útil dar à transmissão uma descrição precisa. O que acontece quando a mensagem é recebida depende do código que escreves.
+O texto da mensagem pode ser o que tu quiseres, mas é útil dar à transmissão uma descrição precisa. O que acontece quando a mensagem é recebida depende do código que escreveres.
 
 ### Receber uma transmissão
 
