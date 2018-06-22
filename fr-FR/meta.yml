@@ -1,7 +1,7 @@
 ---
-title: Diffuser un message dans Scratch
+title: Envoyer un message à tous dans Scratch
 hero_image: images / banner.png
-description: Apprenez à diffuser un message pouvant être traité par différents sprites
+description: Apprenez à envoyer un message à tous pouvant être traité par différents lutins
 theme: rouge
 duration: 1
 listed: false
@@ -9,7 +9,7 @@ ingredient: true
 copyedit: true
 curriculum: créateur, design-0, programmation-0, phys-comp-0, fabrication-0, communauté-0
 interests: ""
-technologies: "rayure"
+technologies: "scratch"
 site_areas:
 steps:
   - 
