@@ -1,4 +1,4 @@
-Un envoi à tous est un moyen d'envoyer un signal d'un lutin qui peut être entendu par tous les lutin. Pensez-y comme une annonce faite sur un haut-parleur.
+Un envoi à tous est un moyen d'envoyer un signal d'un lutin qui peut être entendu par tous les lutin. Imagine-le comme une annonce faite sur un haut-parleur.
 
 ### Envoyer à tous
 
