@@ -18,6 +18,6 @@ Un lutin peut réagir à un envoi à tous en utilisant ce bloc:
 
 ![Recevoir un envoi à tous](images/receive-a-broadcast.png)
 
-Vous pouvez ajouter des blocs en dessous de ce bloc pour indiquer au lutin ce qu'il doit faire lorsqu'il reçoit le signal envoyé à tous.
+Tu peux ajouter des blocs en dessous de celui-ci pour indiquer au lutin ce qu'il doit faire lorsqu'il reçoit le signal envoyé à tous.
 
 ![Recevoir un exemple](images/receive-example.png)
