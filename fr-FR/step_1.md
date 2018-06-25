@@ -1,16 +1,16 @@
 Un envoi à tous est un moyen d'envoyer un signal d'un lutin qui peut être entendu par tous les lutin. Imagine-le comme une annonce faite sur un haut-parleur.
 
-### Envoyer à tous
+### Envoyer un message à tous
 
-Vous pouvez faire un envoi à tous en créant un bloc de envoyer à tous et en lui attribuant un nom.
+Tu peux faire un envoi à tous en créant un bloc envoyer à tous et en lui attribuant un nom.
 
-+ Trouver le bloc de diffusion dans l'onglet Événements.
++ Trouve le bloc de diffusion dans l'onglet Événements.
 
-+ Sélectionnez **nouveau message** Dans le menu déroulant, tapez votre message.
++ Sélectionne **nouveau message** dans le menu déroulant puis tape ton message.
 
 ![Créer un envoi à tous](images/create-a-broadcast.png)
 
-Le texte du message peut être quelque chose que vous aimez, mais il est utile de donner une description raisonnable à l'émission. Ce qui se passe lorsque le message est reçu dépend du code que vous écrivez.
+Le texte du message peut être tout ce que tu veux, mais il est utile de donner une description raisonnable au message. Ce qui se passe lorsque le message est reçu dépend du code que tu écriras.
 
 ### Recevoir un envoi à tous
 
