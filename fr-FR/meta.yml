@@ -1,7 +1,7 @@
 ---
-title: Envoyer un message à tous dans Scratch
+title: Envoie un message à tous dans Scratch
 hero_image: images / banner.png
-description: Apprenez à envoyer un message à tous pouvant être traité par différents lutins
+description: Apprend à envoyer un message pouvant être traité par différents lutins
 theme: rouge
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: introduction
+    title: Introduction
