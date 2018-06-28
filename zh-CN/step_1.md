@@ -10,14 +10,14 @@
 
 ![创建广播](images/create-a-broadcast.png)
 
-The message text can be anything you like, but it is useful to give the broadcast a sensible description. What happens when the message is received depends on the code you write.
+消息的文本可以是你喜欢的任何东西，但是最好给广播一个合理的描述。当消息被接收到时触发的事情取决于你的编码。
 
-### Receive a broadcast
+### 接收广播
 
-A sprite can react to a broadcast by using this block:
+精灵可以使用这个块对广播做出反应:
 
-![Receive a broadcast](images/receive-a-broadcast.png)
+![接收广播](images/receive-a-broadcast.png)
 
-You can add blocks below this block to tell the sprite what to do when it receives the broadcast signal.
+可以在这个块下面加入块，告诉精灵当它收到广播信号时要做些什么。
 
-![Receive example](images/receive-example.png)
+![接收样例](images/receive-example.png)
