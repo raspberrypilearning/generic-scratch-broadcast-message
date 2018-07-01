@@ -10,7 +10,7 @@ Você pode enviar uma transmissão criando um bloco de transmissão e dando-lhe 
 
 ![Crie uma transmissão](images/create-a-broadcast.png)
 
-O texto da mensagem pode ser qualquer coisa que você quiser, mas é útil dar à transmissão uma descrição sensível. O que acontece quando a mensagem é recebida depende do código que você escrever.
+O texto da mensagem pode ser qualquer coisa que você quiser, mas é útil dar à transmissão texto objetivo. O que acontece quando a mensagem é recebida depende do código que você escrever.
 
 ### Receba uma transmissão
 
