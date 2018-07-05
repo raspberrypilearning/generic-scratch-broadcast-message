@@ -8,16 +8,16 @@ Você pode enviar uma transmissão criando um bloco de transmissão e dando-lhe 
 
 + Selecione **nova mensagem** no menu suspenso e digite sua mensagem.
 
-![Crie uma transmissão](images/create-a-broadcast.png)
+![Create a broadcast](images/create-a-broadcast.png)
 
-O texto da mensagem pode ser qualquer coisa que você quiser, mas é útil dar à transmissão texto objetivo. O que acontece quando a mensagem é recebida depende do código que você escrever.
+O texto da mensagem pode ser qualquer coisa que você quiser, mas é útil dar à transmissão um texto objetivo. O que acontece quando a mensagem é recebida depende do código que você escrever.
 
 ### Receba uma transmissão
 
 Um ator pode reagir a uma transmissão usando este bloco:
 
-![Receba uma transmissão](images/receive-a-broadcast.png)
+![Receive a broadcast](images/receive-a-broadcast.png)
 
-Você pode adicionar blocos abaixo deste bloco para dizer ao ator o que fazer quando recebe o sinal de transmissão.
+Você pode adicionar blocos abaixo deste bloco para dizer ao ator o que fazer quando ele receber o sinal de transmissão.
 
-![Receba um exemplo](images/receive-example.png)
+![Receive example](images/receive-example.png)
