@@ -1,16 +1,16 @@
 ---
 title: שידור הודעה ב- Scratch
-hero_image: תמונות / banner.png
-description: למד כיצד לשדר הודעה אשר ניתן לפעול על ידי שדונים שונים
-theme: אָדוֹם
+hero_image: images/banner.png
+description: למד כיצד לשדר הודעה אשר ניתן לפעול על ידי דמויות שונות
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: יוצר, עיצוב 0, תכנות 0, phys-comp-0, ייצור -0, קהילה -0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "שריטה"
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: מבוא
+    title: הקדמה
