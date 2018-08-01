@@ -2,12 +2,12 @@
 title: 在 Scratch 中广播消息
 hero_image: images/banner.png
 description: 学习如何广播一个可以由不同角色执行的消息
-theme: 红色
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: 创建者, 设计-0, 编程-0, 物理组装-0, 制造-0, 社区-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
