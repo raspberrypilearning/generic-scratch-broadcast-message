@@ -1,15 +1,15 @@
 ---
-title: Emisja wiadomości w Scratch
-hero_image: images / banner.png
-description: Dowiedz się, jak nadać komunikat, który może być obsługiwany przez różne sprite'y
-theme: czerwony
+title: Przekaż komunikat w Scratchu
+hero_image: images/banner.png
+description: Dowiedz się, jak przekazywać komunikat, który może być obsłużony przez różne duszki
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: twórca, design-0, programowanie-0, phys-comp-0, production-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "zadraśnięcie"
+technologies: "scratch"
 site_areas:
 steps:
   - 
