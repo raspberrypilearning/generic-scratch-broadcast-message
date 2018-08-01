@@ -1,8 +1,9 @@
+---
 title: 在 Scratch 中广播消息
 hero_image: images/banner.png
-description: 学习如何广播可受到不同子图作用的消息
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+description: 学习如何广播一个可以由不同角色执行的消息
+theme: red
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
