@@ -1,7 +1,7 @@
 ---
-title: Broadcast a message in Scratch
+title: Slanje poruke u Scratch-u
 hero_image: images/banner.png
-description: Learn how to broadcast a message which can be acted upon by different sprites
+description: Nauči kako da pošalješ poruku na koju mogu da reaguju različiti likovi
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Uvod
