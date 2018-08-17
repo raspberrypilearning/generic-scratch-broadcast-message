@@ -1,8 +1,8 @@
 ---
-title: Send en besked i bunden
-hero_image: images / banner.png
+title: Send en besked i Scratch
+hero_image: images/banner.png
 description: Lær hvordan man sender en meddelelse, som kan udføres af forskellige sprites
-theme: rød
+theme: red
 duration: 1
 listed: false
 ingredient: true
