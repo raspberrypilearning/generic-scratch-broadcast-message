@@ -1,15 +1,15 @@
 ---
-title: Слање поруке у Скречу
+title: Емисија поруке у Скречу
 hero_image: images/banner.png
-description: Научите како емитовати поруку на коју могу деловати различити сприжи
-theme: црвена
+description: Научите како емитовати поруку на коју могу реаговати различити ликови
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: творац, дизајн-0, програмирање-0, физ-цомп-0, производња-0, заједница-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "огреботина"
+technologies: "скреч"
 site_areas:
 steps:
   - 
