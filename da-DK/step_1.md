@@ -1,23 +1,23 @@
-En udsendelse er en måde at sende et signal fra en sprite, som kan høres af alle sprites. Tænk på det som en meddelelse om en højttaler.
+En meddelelse er en måde at sende et signal fra en sprite, som kan høres af alle sprites. Tænk på det som en meddelelse om en højttaler.
 
-### Send en udsendelse
+### Send en meddelelse
 
-Du kan sende en udsendelse ved at oprette en broadcast-blok og give det et navn.
+Du kan sende en meddelelse ved at oprette en send-blok og give det et navn.
 
-+ Find udsendelsesblokken i fanen Begivenheder.
++ Find send-blokken i fanen Hændelser.
 
 + Vælg **ny meddelelse** i rullemenuen, og indtast derefter din besked.
 
-![Opret en udsendelse](images/create-a-broadcast.png)
+![Opret en meddelelse](images/create-a-broadcast.png)
 
-Meddelelsesteksten kan være alt, hvad du kan lide, men det er nyttigt at give udsendelsen en fornuftig beskrivelse. Hvad der sker, når meddelelsen er modtaget afhænger af koden, du skriver.
+Meddelelses teksten kan være alt, hvad du kan finde på, men det er nyttigt at give beskeden en fornuftig beskrivelse. Hvad der sker, når beskeden er modtaget afhænger af koden, du skriver.
 
-### Modtag en udsendelse
+### Modtag en meddelelse
 
-En sprite kan reagere på en udsendelse ved at bruge denne blok:
+En sprite kan reagere på en meddelelse ved at bruge denne blok:
 
-![Modtag en udsendelse](images/receive-a-broadcast.png)
+![Modtag en meddelelse](images/receive-a-broadcast.png)
 
-Du kan tilføje blokke under denne blok for at fortælle sprite hvad du skal gøre, når det modtager udsendelsessignalet.
+Du kan tilføje blokke under denne blok for at fortælle spriten hvad du skal gøre, når det modtager meddelelse signalet.
 
 ![Modtag eksempel](images/receive-example.png)
