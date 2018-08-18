@@ -18,6 +18,6 @@ En sprite kan reagere på en meddelelse ved at bruge denne blok:
 
 ![Modtag en meddelelse](images/receive-a-broadcast.png)
 
-Du kan tilføje blokke under denne blok for at fortælle spriten hvad du skal gøre, når det modtager meddelelse signalet.
+Du kan tilføje blokke under denne blok for at fortælle spriten hvad den skal gøre, når den modtager meddelelsen.
 
 ![Modtag eksempel](images/receive-example.png)
