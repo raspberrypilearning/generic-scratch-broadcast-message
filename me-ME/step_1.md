@@ -1,6 +1,6 @@
-Slanjem poruke lik šalje signal koji mogu da čuju svi ostali likovi. Zamisli to kao obavještenje preko razglasa.
+Slanjem poruke lik šalje signal koji mogu da čuju svi ostali likovi. Zamisli to kao obavještavanje preko razglasa.
 
-### Slanje poruke
+### Pošalji poruku
 
 Poruku možeš da pošalješ tako što ćeš izraditi blok broadcast (pošalji) i dati mu naziv.
 
@@ -10,9 +10,9 @@ Poruku možeš da pošalješ tako što ćeš izraditi blok broadcast (pošalji) 
 
 ![Kreiranje poruke](images/create-a-broadcast.png)
 
-Tekst poruke može biti šta god želiš, ali je korisno da sadržaj poruke bude smislen. Šta će se desiti kada poruka bude primljena, zavisi od kôda koji napišeš.
+Tekst poruke može biti šta god želiš, ali je korisno da sadržaj poruke bude smislen. Šta se dešava kada je poruka primljena, zavisi od kôda koji napišeš.
 
-### Primanje poruke
+### Primi poruku
 
 Lik može da reaguje na slanje poruke korišćenjem ovog bloka:
 
