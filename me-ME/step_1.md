@@ -10,7 +10,7 @@ Poruku možeš da pošalješ tako što ćeš izraditi blok broadcast (pošalji) 
 
 ![Kreiranje poruke](images/create-a-broadcast.png)
 
-Tekst poruke može biti šta god želiš, ali je korisno da sadržaj poruke bude smislen. Šta se dešava kada je poruka primljena, zavisi od kôda koji napišeš.
+Tekst poruke može biti šta god želiš, ali je korisno da sadržaj poruke bude smislen. Šta se dešava kada je poruka primljena zavisi od kôda koji napišeš.
 
 ### Primi poruku
 
@@ -18,6 +18,6 @@ Lik može da reaguje na slanje poruke korišćenjem ovog bloka:
 
 ![Primanje poruke](images/receive-a-broadcast.png)
 
-Možeš da dodaš blokove ispod ovog bloka da odrediš šta lik treba da uradi kada primi poruku.
+Možeš da dodaš blokove ispod ovog bloka kako bi rekao/rekla liku šta da uradi kada primi poruku.
 
 ![Primjer primanja poruke](images/receive-example.png)
