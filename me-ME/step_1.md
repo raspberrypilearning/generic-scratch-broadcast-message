@@ -18,6 +18,6 @@ Lik može da reaguje na slanje poruke korišćenjem ovog bloka:
 
 ![Primanje poruke](images/receive-a-broadcast.png)
 
-Možeš da dodaš blokove ispod ovog bloka da kažeš liku šta da uradi kada primi poruku.
+Možeš da dodaš blokove ispod ovog bloka da odrediš šta lik treba da uradi kada primi poruku.
 
 ![Primjer primanja poruke](images/receive-example.png)
