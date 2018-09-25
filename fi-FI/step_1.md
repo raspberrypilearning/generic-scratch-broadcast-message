@@ -1,23 +1,23 @@
-Lähetys on tapa lähettää signaali spriteestä, jota kaikki spritit voivat kuulla. Ajattele sitä kuin kaiuttimen kautta tehty ilmoitus.
+Lähetys on tapa lähettää hahmosta viesti, signaali, jonka kaikki hahmot voivat kuulla. Ajattele sen olevan kuin kaiuttimen kautta tehty ilmoitus.
 
-### Lähetä lähetys
+### Lähetä viesti
 
-Voit lähettää lähetyksen luomalla lähetyslohkon ja antamalla sille nimen.
+Voit lähettää viestin luomalla lähetyslohkon ja antamalla sille nimen.
 
 + Etsi lähetyslohko Tapahtumat-välilehdeltä.
 
-+ Valitse **uusi viesti** avattavasta valikosta ja kirjoita sitten viesti.
++ Valitse **uusi viesti** avattavasta valikosta ja nimeä viesti.
 
 ![Luo lähetys](images/create-a-broadcast.png)
 
-Viestin teksti voi olla mikä tahansa, mutta on hyödyllistä antaa lähetykselle järkevä kuvaus. Mitä tapahtuu, kun viesti vastaanotetaan, riippuu kirjoittamastasi koodista.
+Viestin nimi voi olla mikä tahansa, mutta on hyödyllistä antaa lähetykselle järkevä kuvaus. Mitä tapahtuu, kun viesti vastaanotetaan, riippuu kirjoittamastasi koodista.
 
-### Vastaanottaa lähetyksen
+### Vastaanota viesti
 
-Sprite voi reagoida lähetykseen käyttämällä tätä lohkoa:
+Hahmo voi reagoida viestiin käyttämällä tätä lohkoa:
 
-![Vastaanottaa lähetyksen](images/receive-a-broadcast.png)
+![Vastaanota lähetys](images/receive-a-broadcast.png)
 
-Voit lisätä lohkoja tämän lohkon alapuolelle kertoa spriteille mitä tehdä, kun se vastaanottaa yleislähetyssignaalin.
+Voit lisätä lohkoja tämän lohkon alapuolelle kertoaksesi hahmolle mitä tehdä, kun se vastaanottaa lähetyssignaalin.
 
 ![Vastaanota esimerkki](images/receive-example.png)
