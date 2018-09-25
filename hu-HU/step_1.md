@@ -1,23 +1,23 @@
-A sugárzás módja annak, hogy egy sprite-ből juttassanak jelet, amelyet minden sprites hallhat. Gondolj rá, mint egy kihangosítóval kapcsolatos bejelentés.
+Az üzenetküldéssel egy szereplő küldhet egy jelet, amelyet minden szereplő megkaphat. Úgy gondolj rá, mint egy hangosbeszélőbe mondott felhívásra.
 
-### Küldj egy adást
+### Küldj egy üzenetet
 
-Küldést küldhet egy broadcast blokk létrehozásával és egy nevet ad.
+Üzenet küldéséhez hozz létre egy üzenetküldő blokkot, és adj neki egy nevet.
 
-+ Keresse meg a műsorblokkot az Események lapon.
++ Keresd meg az üzenetküldő blokkot az Események lapon.
 
-+ Válasszon **új üzenetet** a legördülő menüből, majd írja be az üzenetet.
++ Válaszd az **új üzenet** menüpontot, majd írd be az üzenet nevét.
 
-![Hozzon létre egy adást](images/create-a-broadcast.png)
+![Hozz létre egy üzenetet](images/create-a-broadcast.png)
 
-Az üzenet szövege tetszés szerint tetszhet, de érdemes leírást adni a műsorra. Mi történik, ha az üzenet érkezik, attól függ, hogy milyen kódot ír.
+Az üzenet szövege bármi lehet, de célszerű értelmes leírást adni neki. Az üzenet megérkezésekor az történik, amit beprogramozol.
 
-### Fogadjon egy adást
+### Üzenet fogadása
 
-Ez a blokk használatával egy sprite reagálhat a műsorra:
+Egy szereplő az alábbi blokkal reagálhat az üzenetre:
 
-![Fogadjon egy adást](images/receive-a-broadcast.png)
+![Fogadj egy üzenetet](images/receive-a-broadcast.png)
 
-A blokk alatt megadhat blokkokat, hogy elmondja a sprite-nek, mit kell tennie a sugárzott jelek fogadásakor.
+A blokk alá hozzáadhatsz blokkokat, hogy megmond a szereplőnek, mit kell tennie az üzenet fogadásakor.
 
-![Kapjon példát](images/receive-example.png)
+![Példa üzenet fogadására](images/receive-example.png)
